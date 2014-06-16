@@ -1,3 +1,6 @@
+# This has been moved to https://github.com/hubot-scripts/hubot-thesimpsons
+
+
 # Hubot: hubot-thesimpsons
 
 A Simpsons Quote and Image Generator for Hubots.
